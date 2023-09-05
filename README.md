@@ -1,0 +1,2 @@
+# React Chat App 
+This Chat app is built with online statuses, great design and functionality, icons telling you who read the message, image support, sound notifications, and the ability to create multiple rooms. The chat app makes use of Chat Engine. 
